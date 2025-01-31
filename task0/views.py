@@ -8,5 +8,5 @@ def info(request):
     return Response({
         "email": "ahmadalmustapha4@gmail.com",
         "current_datetime": datetime.now().replace(microsecond=0).isoformat()+"Z",
-        "github_url": "https://github.com/baffa-m"
+        "github_url": "https://github.com/baffa-m/hng12_backend"
     })
