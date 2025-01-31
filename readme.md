@@ -77,7 +77,7 @@ The API will be available at `http://localhost:8000`
 
 Using curl:
 ```bash
-curl http://your-deployed-url/
+curl https://baffam.pythonanywhere.com/task0
 ```
 
 ## Deployment
